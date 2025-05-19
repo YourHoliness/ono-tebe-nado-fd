@@ -1,1 +1,1 @@
-[text](https://github.com/YourHoliness/ono-tebe-nado-fd)
+https://github.com/YourHoliness/ono-tebe-nado-fd
